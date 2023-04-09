@@ -11,3 +11,15 @@ int Bass(string sms)
     int result = int.Parse(readImput);
     return result; 
 }    
+
+int SumAZnach(int Num)
+{
+    int result = 0;
+    while (Num > 0)
+    {
+        result += Num % 10;
+        Num = Num / 10;
+    }
+    return result;
+
+}
