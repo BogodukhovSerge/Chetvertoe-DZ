@@ -10,3 +10,15 @@ int Bass(string sms)
     int result = int.Parse(readImput);
     return result; 
 }
+
+int[] GeneratorArray(int Lenght, int minValui, int MaxxValua)
+{
+    int[] array = new int[Lenght];
+    Random random = new Random();
+    for (int i = 0; i < Lenght; i++)
+    {
+        array[i] = random.Next(minValui, maxValue + 1);
+    }
+    return array;
+    
+}
