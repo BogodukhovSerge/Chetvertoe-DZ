@@ -4,3 +4,10 @@
 // 82 -> 10
 // 9012 -> 12
 
+int Bass(string sms)
+{
+    System.Console.WriteLine(sms);
+    string readImput = System.Console.ReadLine();
+    int result = int.Parse(readImput);
+    return result; 
+}    
