@@ -1,0 +1,15 @@
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\bin\Debug\net6.0\Pervoe.exe
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\bin\Debug\net6.0\Pervoe.deps.json
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\bin\Debug\net6.0\Pervoe.runtimeconfig.json
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\bin\Debug\net6.0\Pervoe.dll
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\bin\Debug\net6.0\Pervoe.pdb
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.csproj.AssemblyReference.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.AssemblyInfoInputs.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.AssemblyInfo.cs
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.csproj.CoreCompileInputs.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.dll
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\refint\Pervoe.dll
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.pdb
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\Pervoe.genruntimeconfig.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Pervoe\obj\Debug\net6.0\ref\Pervoe.dll
