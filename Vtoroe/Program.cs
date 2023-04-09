@@ -23,3 +23,5 @@ int SumAZnach(int Num)
     return result;
 
 }
+int Num = Bass("Vvedite cheslo: ");
+System.Console.WriteLine($"Summa vseh chisel v znach {Num} = {SumAZnach(Num)}");
