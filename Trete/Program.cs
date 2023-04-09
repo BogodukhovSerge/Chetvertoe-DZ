@@ -11,7 +11,7 @@ int Bass(string sms)
     return result; 
 }
 
-int[] GeneratorArray(int Lenght, int minValui, int MaxxValua)
+int[] GeneratorArray(int Lenght, int minValui, int MaxValua)
 {
     int[] array = new int[Lenght];
     Random random = new Random();
