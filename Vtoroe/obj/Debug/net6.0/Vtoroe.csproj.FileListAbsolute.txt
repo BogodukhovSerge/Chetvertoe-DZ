@@ -1,0 +1,15 @@
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\bin\Debug\net6.0\Vtoroe.exe
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\bin\Debug\net6.0\Vtoroe.deps.json
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\bin\Debug\net6.0\Vtoroe.runtimeconfig.json
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\bin\Debug\net6.0\Vtoroe.dll
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\bin\Debug\net6.0\Vtoroe.pdb
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.csproj.AssemblyReference.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.AssemblyInfoInputs.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.AssemblyInfo.cs
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.csproj.CoreCompileInputs.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.dll
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\refint\Vtoroe.dll
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.pdb
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\Vtoroe.genruntimeconfig.cache
+C:\Users\zz925\OneDrive\Рабочий стол\дз4\Vtoroe\obj\Debug\net6.0\ref\Vtoroe.dll
