@@ -37,4 +37,5 @@ void PrintArray(int[] array)
 int Lenght = Bass("Dlena maseva: ");
 int min = Bass("Nachalnoe znach, dlya leapazona sluchayn chisel: ");
 int max = Bass("Konechnoe znach, dlya leapazona sluchayn chisel: ");
-int [] array = 
+int [] array = GeneratorArray(Lenght, min, max);
+PrintArray(array);
