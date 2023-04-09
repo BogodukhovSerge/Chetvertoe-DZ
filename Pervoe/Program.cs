@@ -23,3 +23,6 @@ int Vozvedenie(int znachA, int exponentB)
 
 }
 
+int znachA = Bass("vvedite osnovanie: ");
+int exponentB = Bass("Vvedite Pokazatel: ");
+System.Console.WriteLine($"Cheslo {znachA} v stepeni {exponentB} ravno {Bass(znachA, exponentB)}");
