@@ -20,5 +20,21 @@ int[] GeneratorArray(int Lenght, int minValui, int MaxxValua)
         array[i] = random.Next(minValui, maxValue + 1);
     }
     return array;
-    
+
 }
+
+void PrintArray(int[] array)
+{
+    System.Console.Write("[");
+    for (int i = 0; i < array.Lenght; i++)
+    {
+        System.Console.Write($"{array[i]}, ");
+    }
+    System.Console.Write($"{array[array.Length - 1]}");
+    System.Console.WriteLine("]");
+}
+
+int Lenght = Bass("Dlena maseva: ");
+int min = Bass("Nachalnoe znach, dlya leapazona sluchayn chisel: ");
+int max = Bass("Konechnoe znach, dlya leapazona sluchayn chisel: ");
+int [] array = 
